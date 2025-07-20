@@ -1,10 +1,13 @@
 def solution(n, m, section):
     answer = 0
-    last_painted = 0  # 마지막으로 칠한 구역의 끝 번호
+    idx = 0  # 현재 section 인덱스
+    while idx < len(section):
+        # section[idx]부터 롤러로 칠함
+        paint_start = section[idx]
+        paint_end = paint_start + m - 1
+        answer += 1
 
-    for s in section:
-        if s > last_painted:
-            answer += 1
-            last_painted = s + m - 1  # 현재 구역부터 롤러 길이만큼 칠함
-
+        # 롤러로 칠한 범위 내의 구역들은 넘김
+        while idx < len(section) and section[idx] <= paint_end:
+            idx += 1
     return answer
