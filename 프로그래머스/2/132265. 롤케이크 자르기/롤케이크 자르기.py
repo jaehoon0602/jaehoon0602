@@ -1,21 +1,23 @@
-from collections import Counter
-
 def solution(topping):
-    answer = 0
-    
-    # 오른쪽 조각 전체 토핑 카운트
-    right_counter = Counter(topping)
-    left_counter = set()
-    
+    from collections import defaultdict
+
+    left = set()
+    right = defaultdict(int)
+    result = 0
+
+    # 오른쪽 부분 토핑 종류 세기
     for t in topping:
-        # 왼쪽으로 토핑 하나 이동
-        left_counter.add(t)
-        right_counter[t] -= 1
-        if right_counter[t] == 0:
-            del right_counter[t]
-        
-        # 공평하게 나눠졌는지 확인
-        if len(left_counter) == len(right_counter):
-            answer += 1
-    
-    return answer
+        right[t] += 1
+
+    # 한 조각씩 이동하면서 비교
+    for i in range(len(topping) - 1):
+        t = topping[i]
+        left.add(t)
+        right[t] -= 1
+        if right[t] == 0:
+            del right[t]
+        # 토핑 종류 개수가 같을 때 카운트 증가
+        if len(left) == len(right):
+            result += 1
+
+    return result
