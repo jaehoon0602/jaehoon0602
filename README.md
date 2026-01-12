@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
-## 🛠️ Key Projects
+## 🛠️ Projects
 | 프로젝트 | 기술스택 | 성과 |
 |----------|----------|------|
 | **Food Calorie Analysis** | TensorFlow, Pose Estimation | 칼로리 계산 정확도 ↑ [memory:8]. |
@@ -65,11 +65,10 @@
 </div> [web:15][web:35].
 
 
-## 🎯 Why Hire Me?
-✅ AI 석사 + 실무 1년 (YOLO, AWS)
-✅ 프로젝트 리더십 (정부사업 5+건, 12만 팔로워)
-✅ Full-Stack: CV(Pytorch) + App(Flutter) + Data(SQL/Python)
-✅ 한국어/영어 TOEIC 810
+## 경력, 자격증
+ AI 석사 + 실무 1년
+ Full-Stack: CV(Pytorch) + App(Flutter) + Data(SQL/Python)
+ 영어 TOEIC 810
 
 ​
 ---
