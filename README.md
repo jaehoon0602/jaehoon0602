@@ -40,10 +40,10 @@
 ## 🛠️ Projects
 | 프로젝트 | 기술스택 | 성과 |
 |----------|----------|------|
-| **Food Calorie Analysis** | TensorFlow, Pose Estimation | 칼로리 계산 정확도 ↑ [memory:8]. |
-| **Object Tracking** | YOLO, BoT-SORT, OpenCV | 실시간 추적 [memory:9]. |
-| **Image Classification** | PyTorch/CNN | **95%+ accuracy** [web:23]. |
-| **AI 감정분석 일기 앱** | Flutter, AI Agent | 우울증 예방 (팀장) [web:44]. |
+| **Food Calorie Analysis** | TensorFlow, Pose Estimation | 칼로리 계산 정확도 ↑ 
+| **Object Tracking** | YOLO, BoT-SORT, OpenCV | 실시간 추적
+| **Image Classification** | PyTorch/CNN | **95%+ accuracy** 
+| **AI 감정분석 일기 앱** | Flutter, AI Agent | 우울증 예방 (팀장)
 
 
 ## 💪 Complete Skills
@@ -79,9 +79,9 @@
 </div> [attached_file:1][attached_file:2][web:35].
 
 ## 🎓 Education & Certifications
-- **M.S. AI (Computer Vision)**, Soongsil Univ (2024) [memory:5].
+- **M.S. AI (Computer Vision)**, Soongsil Univ (2024) 
 - **B.A. 컴퓨터학부**, Soongsil Univ.
-- 💬 **TOEIC 810** | 🏺 **한국사 2급** [web:38].
+- 💬 **TOEIC 810** | 🏺 **한국사 2급**
 
 ## 💼 Professional Experience
 **AI/ML Engineer (1년)**  
@@ -104,22 +104,22 @@
 ## 🗂️ Major Projects & Achievements
 | 연도 | 프로젝트 | 기관 | 역할 |
 |------|----------|------|------|
-| **2025** | **AI 감정분석 자동일기 앱** | 고용노동부 | **팀장**: 기획/Flutter(Android/iOS)/AI 에이전트 [web:44]. |
+| **2025** | **AI 감정분석 자동일기 앱** | 고용노동부 | **팀장**: 기획/Flutter(Android/iOS)/AI 에이전트 
 | 2020 | New Media Content | 경기콘텐츠진흥원 | 사업기획/컨설팅/매칭/보고 |
 | 2020 | Presidential e-Sports | 문화체육관광부 | 홍보/섭외/현장운영 |
 | 2019 | **GameCon** | 서울산업진흥원 | 무대/굿즈 기획 |
 | 2019 | Next Content Fair | 문화체육관광부 | 부스/안전관리 |
 | 2016 | UHD Broadcast | 미래창조과학부 | Vlog 제작 |
-| 2016 | **DIA Festival** | CJ E&M | 부스 운영 [web:45]. |
+| 2016 | **DIA Festival** | CJ E&M | 부스 운영
 
-**🏆 2024 서울시 AIoT 해커톤 장려상** [web:20].
+**🏆 2024 서울시 AIoT 해커톤 장려상** 
 
 ## 🛠️ Technical Projects (AI/CV)
 | 프로젝트 | 기술 | 성과 |
 |----------|------|------|
-| **Food Calorie Analysis** | TensorFlow/Pose Est. | 칼로리 정확도 ↑ [memory:8]. |
-| **Object Tracking** | **YOLO/BoT-SORT/OpenCV** | 실시간 추적 [memory:9]. |
-| **Image Classification** | PyTorch/CNN | **95%+ accuracy** [web:23]. |
+| **Food Calorie Analysis** | TensorFlow/Pose Est. | 칼로리 정확도 ↑ 
+| **Object Tracking** | **YOLO/BoT-SORT/OpenCV** | 실시간 추적 
+| **Image Classification** | PyTorch/CNN | **95%+ accuracy** 
 
 ​
 ---
