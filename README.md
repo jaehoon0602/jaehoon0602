@@ -16,8 +16,6 @@
 </div>
 
 
-**GitHub**: [chocksummersalt](https://github.com/chocksummersalt) | [chocks](https://github.com/chocks) [attached_file:1][web:19].
-
 ## 🏆 Awards & Achievements
 - 🥉 **2024 서울시 AIoT 해커톤 장려상** [web:20].
 - **EBS 장학퀴즈 우승** 
@@ -48,5 +46,35 @@
 | **AI 감정분석 일기 앱** | Flutter, AI Agent | 우울증 예방 (팀장) [web:44]. |
 
 
+## 💪 Complete Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+</div> [web:15][web:35].
 
+## 📊 GitHub Stats
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocksummersalt&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div> [web:45].
+
+
+## 🎯 Why Hire Me?
+✅ AI 석사 + 실무 1년 (YOLO, AWS)
+✅ 프로젝트 리더십 (정부사업 5+건, 12만 팔로워)
+✅ Full-Stack: CV(Pytorch) + App(Flutter) + Data(SQL/Python)
+✅ 한국어/영어 TOEIC 810
+
+​
 ---
