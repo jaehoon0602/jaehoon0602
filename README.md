@@ -17,7 +17,7 @@
 
 
 ## 🏆 Awards & Achievements
-- 🥉 **2024 서울시 AIoT 해커톤 장려상** [web:20].
+- 🥉 **2024 서울시 AIoT 해커톤 장려상** 
 - **EBS 장학퀴즈 우승** 
 
 ## 💪 Skils
@@ -63,11 +63,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 </div> [web:15][web:35].
-
-## 📊 GitHub Stats
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocksummersalt&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div> [web:45].
 
 
 ## 🎯 Why Hire Me?
