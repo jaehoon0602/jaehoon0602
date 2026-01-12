@@ -16,12 +16,11 @@
 </div>
 
 
----
+**GitHub**: [chocksummersalt](https://github.com/chocksummersalt) | [chocks](https://github.com/chocks) [attached_file:1][web:19].
+
 ## 🏆 Awards & Achievements
-- 🥉 2024 서울시 Aiot 해커톤 장려상
-
-
----
+- 🥉 **2024 서울시 AIoT 해커톤 장려상** [web:20].
+- **EBS 장학퀴즈 우승** 
 
 ## 💪 Skils
 
@@ -39,6 +38,15 @@
   <img src="https://img.shields.io/badge/ANACONDA-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
+
+## 🛠️ Key Projects
+| 프로젝트 | 기술스택 | 성과 |
+|----------|----------|------|
+| **Food Calorie Analysis** | TensorFlow, Pose Estimation | 칼로리 계산 정확도 ↑ [memory:8]. |
+| **Object Tracking** | YOLO, BoT-SORT, OpenCV | 실시간 추적 [memory:9]. |
+| **Image Classification** | PyTorch/CNN | **95%+ accuracy** [web:23]. |
+| **AI 감정분석 일기 앱** | Flutter, AI Agent | 우울증 예방 (팀장) [web:44]. |
+
 
 
 ---
